@@ -1,0 +1,11 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2022\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.tb_maLop.resources
